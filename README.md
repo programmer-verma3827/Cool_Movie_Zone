@@ -1,3 +1,7 @@
+This Project is a movie details fetcher web app. User will enter the name of movie and it will fetch the details of that movie if the movie is released officially in Theatres. I have used "themoviedb.org" API to fetch the movie details.  
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
