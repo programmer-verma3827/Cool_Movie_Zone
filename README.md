@@ -2,6 +2,26 @@ This Project is a movie details fetcher web app. User will enter the name of mov
 
 
 
+
+
+![movie1](https://user-images.githubusercontent.com/61836428/144837397-e906661b-e102-4436-b31d-70f2ac558fd7.png)
+
+
+
+
+![movie2](https://user-images.githubusercontent.com/61836428/144837413-17a94226-b53a-4551-8e2f-a7b923eba02c.png)
+
+
+
+
+
+![movie3](https://user-images.githubusercontent.com/61836428/144837463-b351b070-0d83-4847-b90e-9ada9e53f2e7.png)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
